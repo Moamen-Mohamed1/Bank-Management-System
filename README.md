@@ -1,4 +1,5 @@
 # Bank-Management-System
+
  Each Customer in This System Can :</br>
  1-Register for a new account.</br>
  2-Log in to existing accounts (securely.)</br>
@@ -10,4 +11,4 @@
  8-Delete Account</br>
                           
                           
-                           The Application built using java and Mysql Database API (JDBC)</br>
+The Application built using java and Mysql Database API (JDBC)</br>
