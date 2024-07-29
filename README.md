@@ -1,5 +1,5 @@
 # Bank-Management-System
- Each Customer in This System Can :
+ Each Customer in This System Can :</br>
  1-Register for a new account.</br>
  2-Log in to existing accounts (securely.)</br>
  3-View Contact/Address Information </br>
